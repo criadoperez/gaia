@@ -1,4 +1,4 @@
-Gaia: A decentralized high-performance storage system
+Gaia. A decentralized high-performance storage system
 ====================================
 
 [![codecov](https://codecov.io/gh/stacks-network/gaia/branch/master/graph/badge.svg)](https://app.codecov.io/gh/stacks-network/gaia)
